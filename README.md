@@ -1,6 +1,6 @@
 ## jquery-webpart
 
-Accordion webpart for SharePoint using SPFx and jQuery!
+Accordion webpart for SharePoint using SPFx and jQuery
 
 ### How to start the webpart
 
