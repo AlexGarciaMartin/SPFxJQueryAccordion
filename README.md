@@ -2,7 +2,7 @@
 
 Accordion webpart for SharePoint using SPFx and jQuery
 
-### How to start the webpart
+### How to run the webpart
 
 ```bash
 git clone the repo
