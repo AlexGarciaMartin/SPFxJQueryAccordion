@@ -21,9 +21,9 @@
     "jqueryui": "^1.11.1"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.6.0",
+    "@microsoft/sp-build-web": "1.17.1",
     "@microsoft/sp-module-interfaces": "1.6.0",
-    "@microsoft/sp-webpart-workbench": "1.6.0",
+    "@microsoft/sp-webpart-workbench": "1.12.1",
     "@types/chai": "3.4.34",
     "@types/jquery": "^2.0.54",
     "@types/jqueryui": "^1.12.8",
